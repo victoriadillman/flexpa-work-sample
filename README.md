@@ -4,7 +4,7 @@ This project is a work sample following the instructions from Flexpa to integrat
 
 ## To run this application
 
-First, the client is run in a submodule.\ 
+First, the client is run in a submodule. 
 Once the project is cloned, you must run `git submodule init` and then `git submodule update` to fetch all the data from the project.
 
 ### `npm start` and `npm run dev`
